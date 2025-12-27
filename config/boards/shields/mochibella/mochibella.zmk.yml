@@ -1,0 +1,11 @@
+file_format: "1"
+id: mochibella
+name: mochibella
+type: shield
+url: https://github.com/badjeff/mochibella/
+requires: [pro_micro]
+exposes: []
+features:
+  - keys
+siblings:
+  - mochibella

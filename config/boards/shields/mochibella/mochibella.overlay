@@ -1,0 +1,8 @@
+/*
+ * Copyright (c) 2020 Pete Johanson
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+#include "mochibella.dtsi"
+#include "mochibella_paw3222.dtsi"
